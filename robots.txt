@@ -1,0 +1,4 @@
+Sitemap: http://updiversity.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: updiversity.github.io
